@@ -1,0 +1,34 @@
+Warning: validateDOMNesting(...): <p> cannot appear as a descendant of &lt;p&gt;.
+    at p
+    at p
+    at https://b8a6867c-bc74-4079-be2d-30d11dbf8e8d-00-2yqq9wt0r6l3j.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-PALV7G7K.js?v=5dc7fe8b:42:13
+    at https://b8a6867c-bc74-4079-be2d-30d11dbf8e8d-00-2yqq9wt0r6l3j.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-AOMIZOPK.js?v=5dc7fe8b:279:13
+    at https://b8a6867c-bc74-4079-be2d-30d11dbf8e8d-00-2yqq9wt0r6l3j.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@radix-ui_react-alert-dialog.js?v=5dc7fe8b:129:11
+    at _c9 (https://b8a6867c-bc74-4079-be2d-30d11dbf8e8d-00-2yqq9wt0r6l3j.worf.replit.dev/src/components/ui/alert-dialog.tsx:158:12)
+    at div
+    at AlertDialogHeader (https://b8a6867c-bc74-4079-be2d-30d11dbf8e8d-00-2yqq9wt0r6l3j.worf.replit.dev/src/components/ui/alert-dialog.tsx:86:3)
+    at Slottable2 (https://b8a6867c-bc74-4079-be2d-30d11dbf8e8d-00-2yqq9wt0r6l3j.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-LXTJ4TFU.js?v=5dc7fe8b:95:25)
+    at div
+    at https://b8a6867c-bc74-4079-be2d-30d11dbf8e8d-00-2yqq9wt0r6l3j.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-PALV7G7K.js?v=5dc7fe8b:42:13
+    at https://b8a6867c-bc74-4079-be2d-30d11dbf8e8d-00-2yqq9wt0r6l3j.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-POS6EB57.js?v=5dc7fe8b:59:7
+    at https://b8a6867c-bc74-4079-be2d-30d11dbf8e8d-00-2yqq9wt0r6l3j.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-LXTJ4TFU.js?v=5dc7fe8b:79:13
+    at https://b8a6867c-bc74-4079-be2d-30d11dbf8e8d-00-2yqq9wt0r6l3j.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-LXTJ4TFU.js?v=5dc7fe8b:56:13
+    at https://b8a6867c-bc74-4079-be2d-30d11dbf8e8d-00-2yqq9wt0r6l3j.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-PALV7G7K.js?v=5dc7fe8b:42:13
+    at https://b8a6867c-bc74-4079-be2d-30d11dbf8e8d-00-2yqq9wt0r6l3j.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-2BXDDEOX.js?v=5dc7fe8b:29:5
+    at https://b8a6867c-bc74-4079-be2d-30d11dbf8e8d-00-2yqq9wt0r6l3j.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-AOMIZOPK.js?v=5dc7fe8b:231:13
+    at https://b8a6867c-bc74-4079-be2d-30d11dbf8e8d-00-2yqq9wt0r6l3j.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-AOMIZOPK.js?v=5dc7fe8b:154:58
+    at Presence (https://b8a6867c-bc74-4079-be2d-30d11dbf8e8d-00-2yqq9wt0r6l3j.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-GIFZ5JBW.js?v=5dc7fe8b:24:11)
+    at https://b8a6867c-bc74-4079-be2d-30d11dbf8e8d-00-2yqq9wt0r6l3j.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-AOMIZOPK.js?v=5dc7fe8b:145:64
+    at Provider (https://b8a6867c-bc74-4079-be2d-30d11dbf8e8d-00-2yqq9wt0r6l3j.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-MAE4WKEQ.js?v=5dc7fe8b:38:15)
+    at Provider (https://b8a6867c-bc74-4079-be2d-30d11dbf8e8d-00-2yqq9wt0r6l3j.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-MAE4WKEQ.js?v=5dc7fe8b:17:13)
+    at https://b8a6867c-bc74-4079-be2d-30d11dbf8e8d-00-2yqq9wt0r6l3j.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@radix-ui_react-alert-dialog.js?v=5dc7fe8b:82:13
+    at https://b8a6867c-bc74-4079-be2d-30d11dbf8e8d-00-2yqq9wt0r6l3j.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-LXTJ4TFU.js?v=5dc7fe8b:79:13
+    at https://b8a6867c-bc74-4079-be2d-30d11dbf8e8d-00-2yqq9wt0r6l3j.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-LXTJ4TFU.js?v=5dc7fe8b:56:13
+    at https://b8a6867c-bc74-4079-be2d-30d11dbf8e8d-00-2yqq9wt0r6l3j.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-PALV7G7K.js?v=5dc7fe8b:42:13
+    at https://b8a6867c-bc74-4079-be2d-30d11dbf8e8d-00-2yqq9wt0r6l3j.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-POS6EB57.js?v=5dc7fe8b:258:22
+    at Presence (https://b8a6867c-bc74-4079-be2d-30d11dbf8e8d-00-2yqq9wt0r6l3j.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-GIFZ5JBW.js?v=5dc7fe8b:24:11)
+    at Provider (https://b8a6867c-bc74-4079-be2d-30d11dbf8e8d-00-2yqq9wt0r6l3j.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-MAE4WKEQ.js?v=5dc7fe8b:38:15)
+    at DialogPortal (https://b8a6867c-bc74-4079-be2d-30d11dbf8e8d-00-2yqq9wt0r6l3j.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-AOMIZOPK.js?v=5dc7fe8b:107:11)
+    at AlertDialogPortal (https://b8a6867c-bc74-4079-be2d-30d11dbf8e8d-00-2yqq9wt0r6l3j.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@radix-ui_react-alert-dialog.js?v=5dc7fe8b:63:11)
+    at _c3 (https://b8a6867c-bc74-4079-be2d-30d11dbf8e8d-00-2yqq9wt0r6l3j.worf.replit.dev/src/components/ui/alert-dialog.tsx:50:12)
+    at Provider…
